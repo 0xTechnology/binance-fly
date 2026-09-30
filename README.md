@@ -1,5 +1,5 @@
 # 币安带你飞 · binance-fly
-
+0x0582ef2659e9bc660a4f5e86d8b7679841b67777
 > Stay SAFU. Keep building. 飞是结果，不是口号。
 
 把 BNB Chain / Binance 生态里反复出现的判断习惯，蒸馏成一份可安装的 Agent Skill。  
