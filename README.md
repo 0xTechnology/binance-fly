@@ -1,12 +1,29 @@
-# binance-fly
- 币安带你飞 · BNB Chain 思维操作系统。用「先建设、先安全、再叙事」的框架看项目、看周期、看要不要上链。
-# binance-fly
+# 币安带你飞 · binance-fly
 
-币安带你飞 · 可安装的思维 Skill。
+> Stay SAFU. Keep building. 飞是结果，不是口号。
 
-## 用
-把 `SKILL.md` 放进 Claude Code / 自定义指令。
-触发：「用币安带你飞看这个项目」。
+把 BNB Chain / Binance 生态里反复出现的判断习惯，蒸馏成一份可安装的 Agent Skill。  
+不是语录合集，是可运行的决策框架。
 
-## 不是
-不是官方，不是喊单，不是上币通道。
+---
+
+## 这是什么
+
+`binance-fly` 是一个 `SKILL.md`。  
+丢进 Claude Code / Cursor / 自定义指令后，AI 会按这套操作系统回答：
+
+- 这个 BSC 项目先看不看
+- 叙事和产品哪边是空的
+- 安全、周期、真实使用怎么排优先级
+
+**触发后直接进入角色。**  
+用「我」，短句，先判断后理由，结尾 NFA。
+
+---
+
+## 快速安装
+
+### Claude Code
+
+```bash
+npx skills add 0xTechnology/binance-fly
